@@ -1,0 +1,35 @@
+<html>
+     <head> <title> Introduction </title> </head>
+     <body background=Intro.jpg>
+
+     <center><img src="1.gif" width="200" height="250"><center>
+
+     <marquee><font color="purple" size="12"> HEYYY GUYS WHATSUP!!!! </font></marquee>
+
+     <hr color="red" size="6">
+     
+     <font size="6">
+     
+     
+      <p align="left" <b> Personal Details</b> <a href="PR.html"><img src="PR.jpg" width="100" height="100"></a>
+    
+      <hr color="red" size="6">
+     
+      <p align="right" <b> CORE COMPENTENCIES </b> <a href="Page3.html"><img src="Page3.jpg" width="100" height="100"></a>
+ 
+       <hr color="red" size="6">
+
+        <p align="left" <b>EXPERIENCE </b> <a href="Page 4.html"><img src="page4.jpg" width="100" height="100"></a>
+
+         <hr color="red" size="6">
+  
+         <p> <font size="10"> THANK YOU!!!!  </font> </p>
+ 
+          <img src="robo2.gif" width="200" height="200"> <img src="Robo.gif" width="200" height="200"> <img src="robo3.gif" width="200" height="200">
+
+          </body>
+          </html>
+     
+
+     
+     

@@ -1,0 +1,18 @@
+<html>
+        <body background="Page3.jpg">
+        <center> <font size="10"> CORE COMPENTENCIES</font>
+        <font size="6">
+         
+        <ul ="disc">
+        <li>C++</li>
+        <li>HTML</li>
+        <li>Organization skills</li>
+        <li> Debating Skills </li>
+        </ul>
+        </font>
+        </center> 
+ 
+       <font color="red" size="10"> Technical Department </font>
+       <p> I have always been really passionate about innovations and technology. Right since the 4th grade I was really interested into Coding and Artificial intelligence which later led me to take computer science in the 8th grade as well as in college and as a result I was the one the best coders in my college. During the Course of my 11th and 12th I have prepared multiple websites and also taken part in and intercollege competition for the same. Being interested in Technology and Research I decided to get my Btech degree in Computer Science and Specialize in Cyber Security.I’ve also always had a spark to keep learning more and more in this field as technological advancements today are changing human lives and taking it to new bounds.</p>
+        </body>
+</html>
